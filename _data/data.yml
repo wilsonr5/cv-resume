@@ -25,23 +25,29 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Indonesian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Moderate
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Chinese Mandarin
+        level: Good
+      
+      - idiom: Chinese Hokkian
+        level: Mother Tongue
+        
+      - idiom: Japanese
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Travelling
         link:
 
-      - item: Snowboarding
+      - item: Reading
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
