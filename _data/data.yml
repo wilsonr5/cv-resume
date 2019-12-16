@@ -113,6 +113,19 @@ achievements:
         details: |
                 Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
                 
+projects:
+      - role: Smart Parking
+        time: May 2019
+        company: Cloud Computing and Connected Services Project
+        details: |
+                Smart Parking is a parking system integrated with smartphone to help drivers finding the available parking slots, also create a simple billing system to avoid any kinds of common problem.
+            
+      - role: Smart Safety Box
+        time: May 2018
+        company: Embedded System Project
+        details: | 
+                Smart Safety Box is a system integrated with smartphone to help the owners safe their money or another important things.
+                
 events:
       - role: Head of Competition Creator
         time: November 2019
