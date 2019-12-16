@@ -26,6 +26,10 @@
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
+      
+      {% if project.details %}
+      - <span class="project-details">{{ project.details }}</span>
+      {% endif %}
 
     </div><!--//item-->
   {% endfor %}
