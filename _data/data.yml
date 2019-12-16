@@ -106,28 +106,23 @@ projects:
       Other activities with less responsibility
     assignments:
       - title: 1st Place in Huawei ICT Competition National Round 2019/2020
-        link: "#hook"
         tagline: Huawei Indonesia, 2019
         details: Competition in fields of Routing and Switching, Network Security, and Wireless Access
         
       - title: Seeds for The Future 2019
-        link: "#hook"
         tagline: Huawei China, 2019
         details: Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
 
 
       - title: Staff of Transportation and Accomodation Division of KMB Study Orientation
-        link: "#"
         tagline: Keluarga Mahasiswa Buddhis ITB, 2017
 
       - title: Staff of Logistic of "Bunka no Hi"
-        link: "#"
         tagline: Unit Kebudayaan Jepang ITB, 2017
         
       - title: Finalist in short film competition
-        link: "#"
         tagline: Genesys Japan, 2015
     
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+   
