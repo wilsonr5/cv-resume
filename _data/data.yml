@@ -101,7 +101,7 @@ skills:
 
 
 projects:
-    title: Extracurricular
+    title: Achievements
     intro: >
       Achievements
     assignments:
@@ -111,6 +111,8 @@ projects:
       - title: Seeds for The Future 2019
         tagline: Huawei China, 2019 details Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
 
+projects1:
+    title: Extracurricular
     intro: >
       Organization/Event Duties
     assignments:
