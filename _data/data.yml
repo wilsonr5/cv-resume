@@ -55,7 +55,7 @@ education:
       university: Bandung Institute of Technology
       time: 2016 - Present
       details: |
-          - GPA: 3.29/4
+          GPA: 3.29/4
 
     - degree: Science Major
       university: Gandhi National School
@@ -110,15 +110,7 @@ projects:
         link: "#hook"
         tagline: Huawei Indonesia, 2019
         
-        
-projects:
-    title: Organization/Event Duties
-    intro: >
-      Other activities with less responsibility
-    assignments:
-      - title: 1st Place in Huawei ICT Competition National Round 2019/2020
-        link: "#hook"
-        tagline: Huawei Indonesia, 2019
+
 
       - title: Staff of Transportation and Accomodation Division of KMB Study Orientation
         link: "#"
