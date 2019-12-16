@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Wilson Rustiandy
-    tagline: Student
+    tagline: Undergraduate Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,14 +51,14 @@ career-profile:
       quickly and work efficiently in team. I have interest in microwave utensils, such as antenna. Aiming for expert engineer.
 
 education:
-    - degree: Telecommunication Engineering
-                GPA: 3.29/4
-      university: Bandung Institute of Technology
+    - degree: Bandung Institute of Technology
+      GPA: 3.29/4
+      university: Telecommunication Engineering
       time: 2016 - Present
       details: | 
 
-    - degree: Science Major
-      university: Gandhi National School
+    - degree: Gandhi National School
+      university: Science Major
       time: 2013 - 2016
       details: |
 
