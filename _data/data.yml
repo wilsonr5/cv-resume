@@ -52,10 +52,10 @@ career-profile:
 
 education:
     - degree: Telecommunication Engineering
+                GPA: 3.29/4
       university: Bandung Institute of Technology
       time: 2016 - Present
       details: | 
-            GPA: 3.29/4
 
     - degree: Science Major
       university: Gandhi National School
