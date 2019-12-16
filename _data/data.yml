@@ -110,21 +110,25 @@ achievements:
       - title: Seeds for The Future 2019
         tagline: Huawei China, 2019 details Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
 
-projects:
+events:
     title: Organization/Event Duties
     assignments:
       
-      - title: Head of Competition Creator                          (November 2019)
-        tagline: Telemotion 2019, Ikatan Mahasiswa Telekomunikasi ITB
+      - title: Head of Competition Creator
+        tagline: November 2019
+        details: Telemotion 2019, Ikatan Mahasiswa Telekomunikasi ITB
 
-      - title: Vice Treasurer                                       (November 2018)
-        tagline: Telemotion 2018, Ikatan Mahasiswa Telekomunikasi ITB
+      - title: Vice Treasurer
+        tagline: November 2018
+        details: Telemotion 2018, Ikatan Mahasiswa Telekomunikasi ITB
         
-      - title: Head of Content Creator                              (July - September 2018)
-        tagline: Spektrum 2018, Ikatan Mahasiswa Telekomunikasi ITB
+      - title: Head of Content Creator
+        tagline: July - September 2018
+        details: Spektrum 2018, Ikatan Mahasiswa Telekomunikasi ITB
         
-      - title: Head of Transportation and Accomodation Division     (April 2018)
-        tagline: Dharmabakti Desa Buddhis 2018, Keluarga Mahasiswa Buddhis ITB
+      - title: Head of Transportation and Accomodation Division
+        tagline: April 2018
+        details: Dharmabakti Desa Buddhis 2018, Keluarga Mahasiswa Buddhis ITB
     
 
 footer: >
