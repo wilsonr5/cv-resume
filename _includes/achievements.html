@@ -16,19 +16,19 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for achievement in achievements.assignments %}
+  {% for project in achievements.assignments %}
     <div class="item">
 
-      <span class="achievement-title">
-        <a href="{{ achievement.link }}">{{ achievement.title }}</a>
+      <span class="project-title">
+        <a href="{{ project.link }}">{{ project.title }}</a>
       </span>
 
-      {% if achievement.tagline %}
-      - <span class="achievement-tagline">{{ achievement.tagline }}</span>
+      {% if project.tagline %}
+      - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
       
-      {% if achievement.details %}
-      - <span class="achievement-details">{{ achievement.details }}</span>
+      {% if project.details %}
+      - <span class="project-details">{{ project.details }}</span>
       {% endif %}
 
     </div><!--//item-->
