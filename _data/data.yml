@@ -107,11 +107,13 @@ projects:
     assignments:
       - title: 1st Place in Huawei ICT Competition National Round 2019/2020
         tagline: Huawei Indonesia, 2019
-        details: Competition in fields of Routing and Switching, Network Security, and Wireless Access
+        details: | 
+            Competition in fields of Routing and Switching, Network Security, and Wireless Access
         
       - title: Seeds for The Future 2019
         tagline: Huawei China, 2019
-        details: Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
+        details: | 
+            Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
 
 
       - title: Staff of Transportation and Accomodation Division of KMB Study Orientation
