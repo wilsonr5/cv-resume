@@ -1,6 +1,6 @@
 {% assign achievements = site.data.data.achievements %}
 {% if achievements %}
-<section class="section achievements-section">
+<section class="section projects-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -16,19 +16,19 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in achievements.assignments %}
+  {% for achievements in achievements.assignments %}
     <div class="item">
 
       <span class="project-title">
-        <a href="{{ project.link }}">{{ project.title }}</a>
+        <a href="{{ achievements.link }}">{{ achievements.title }}</a>
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% if achievements.tagline %}
+      - <span class="project-tagline">{{ achievements.tagline }}</span>
       {% endif %}
       
-      {% if project.details %}
-      - <span class="project-details">{{ project.details }}</span>
+      {% if achievements.details %}
+      - <span class="project-details">{{ achievements.details }}</span>
       {% endif %}
 
     </div><!--//item-->
