@@ -101,8 +101,6 @@ skills:
 
 
 achievements:
-    title: Achievements
-    assignments:
       - role: 1st Place in Huawei ICT Competition National Round 2019/2020
         time: November 2019
         company: Huawei Indonesia
@@ -116,24 +114,25 @@ achievements:
                 Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
                 
 events:
-    title: Organization/Event Duties
-    assignments:
-      
-      - title: Head of Competition Creator
-        tagline: November 2019
-        details: Telemotion 2019, Ikatan Mahasiswa Telekomunikasi ITB
+      - role: Head of Competition Creator
+        time: November 2019
+        company: Telemotion 2019, Ikatan Mahasiswa Telekomunikasi ITB
+        details: |
 
-      - title: Vice Treasurer
-        tagline: November 2018
-        details: Telemotion 2018, Ikatan Mahasiswa Telekomunikasi ITB
+      - role: Vice Treasurer
+        time: November 2018
+        company: Telemotion 2018, Ikatan Mahasiswa Telekomunikasi ITB
+        details: |
         
-      - title: Head of Content Creator
-        tagline: July - September 2018
-        details: Spektrum 2018, Ikatan Mahasiswa Telekomunikasi ITB
+      - role: Head of Content Creator
+        time: July - September 2018
+        company: Spektrum 2018, Ikatan Mahasiswa Telekomunikasi ITB
+        details: |
         
-      - title: Head of Transportation and Accomodation Division
-        tagline: April 2018
-        details: Dharmabakti Desa Buddhis 2018, Keluarga Mahasiswa Buddhis ITB
+      - role: Head of Transportation and Accomodation Division
+        time: April 2018
+        company: Dharmabakti Desa Buddhis 2018, Keluarga Mahasiswa Buddhis ITB
+        details: |
     
 
 footer: >
