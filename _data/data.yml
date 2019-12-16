@@ -54,7 +54,7 @@ education:
     - degree: Telecommunication Engineering
       university: Bandung Institute of Technology
       time: 2016 - Present
-      details: "GPA: 3.29/4"
+      details: GPA: 3.29/4
 
     - degree: Science Major
       university: Gandhi National School
@@ -108,7 +108,12 @@ projects:
       - title: 1st Place in Huawei ICT Competition National Round 2019/2020
         link: "#hook"
         tagline: Huawei Indonesia, 2019
+        details: Competition in fields of Routing and Switching, Network Security, and Wireless Access
         
+      - title: Seeds for The Future 2019
+        link: "#hook"
+        tagline: Huawei China, 2019
+        details: Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
 
 
       - title: Staff of Transportation and Accomodation Division of KMB Study Orientation
