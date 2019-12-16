@@ -48,7 +48,7 @@ career-profile:
     title: Profile
     summary: |
       As an organised and quick-learner individual. All experiences from events and organization positions have improved me to adapt
-      quickly and work efficiently in team. Aiming for expert engineer.
+      quickly and work efficiently in team. I have interest in microwave utensils, such as antenna. Aiming for expert engineer.
 
 education:
     - degree: Telecommunication Engineering
@@ -61,42 +61,19 @@ education:
       university: Gandhi National School
       time: 2013 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Vice Treasurer
-      time: August - November 2018
-      company: Telemotion, IMT ITB
+    - role: Lecturer Assistant
+      time: August - Decemeber 2019
+      company: Telecommunication Engineering
       details: |
-        An event that introduced Telecommunication Engineering Career to high school students.
-        
-          - Monitored cashflow
-          - Informed financial report monthly
-          
-
-    - role: Head of Content Creator Division
-      time: July - September 2018
+        Assist lecturer on Computer Networks class
+         
+    - role: Laboratory Assistant Coordinator
+      time: August - December 2019
       company: IMT Study Orientation, IMT ITB
       details: |
-        An event that introduced "Ikatan Mahasiswa Telekomunikasi" to junior batch students.
-        
-          - Created some methods for faciltating information and cultural value about "Ikatan Mahasiswa Telekomunikasi"
-          - Introduced "Rescue Hostages" method which meant for help each other among Telecom Engineering students everytime 
-
-    - role: Head of Transportation and Accomodation Division
-      time: April 2018
-      company: Dharmabakti Desa Buddhis, KMB ITB
-      details: |
-        Lived in a small village for 4 days and fixed their major problem.
-        
-          - Provided transportation and accomodation for all the participants
+        Assist the laboratory works regarding Computer Networks and Electromagnetic Fields
           
 skills:
     title: Technical Skills
