@@ -103,13 +103,18 @@ skills:
 achievements:
     title: Achievements
     assignments:
-      - title: 1st Place in Huawei ICT Competition National Round 2019/2020
-        tagline: Huawei Indonesia, 2019 details Competition in fields of Routing and Switching, Network Security, and Wireless Access
+      - role: 1st Place in Huawei ICT Competition National Round 2019/2020
+        time: November 2019
+        company: Huawei Indonesia
+        details: |
+                 Competition in fields of Routing and Switching, Network Security, and Wireless Access
         
-        
-      - title: Seeds for The Future 2019
-        tagline: Huawei China, 2019 details Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
-
+      - role: Seeds for The Future 2019
+        time: November 2019
+        company: Huawei China
+        details: |
+                Learn about Access and Core Network of 4G/5G and learn Chinese culture in China for 2 weeks
+                
 events:
     title: Organization/Event Duties
     assignments:
