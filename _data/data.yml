@@ -31,8 +31,8 @@ sidebar:
       - idiom: English
         level: Moderate
 
-      - idiom: Chinese Mandarin
-        level: Good
+      - idiom: Chinese
+        level: Moderate
         
       - idiom: Japanese
         level: Beginner
@@ -54,8 +54,7 @@ education:
     - degree: Telecommunication Engineering
       university: Bandung Institute of Technology
       time: 2016 - Present
-      details: |
-          GPA: 3.29/4
+      details: GPA: 3.29/4
 
     - degree: Science Major
       university: Gandhi National School
