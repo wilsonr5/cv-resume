@@ -33,9 +33,6 @@ sidebar:
 
       - idiom: Chinese Mandarin
         level: Good
-      
-      - idiom: Chinese Hokkian
-        level: Mother Tongue
         
       - idiom: Japanese
         level: Beginner
@@ -45,9 +42,6 @@ sidebar:
         link:
 
       - item: Reading
-        link:
-
-      - item: 
         link:
 
 career-profile:
@@ -61,14 +55,7 @@ education:
       university: Bandung Institute of Technology
       time: 2016 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - GPA: 3.29/4
 
     - degree: Science Major
       university: Gandhi National School
