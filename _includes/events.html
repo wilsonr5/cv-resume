@@ -1,0 +1,38 @@
+{% assign events = site.data.data.events %}
+{% if events %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ events.title }}
+  </h2>
+
+  {% if events.intro %}
+  <div class="intro">
+      <p>{{ events.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for events in events.assignments %}
+    <div class="item">
+
+      <span class="project-title">
+        <a href="{{ events.link }}">{{ events.title }}</a>
+      </span>
+
+      {% if events.tagline %}
+      - <span class="project-tagline">{{ events.tagline }}</span>
+      {% endif %}
+      
+      {% if events.details %}
+      - <span class="project-details">{{ events.details }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
